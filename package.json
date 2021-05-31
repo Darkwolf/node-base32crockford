@@ -1,7 +1,7 @@
 {
   "name": "@darkwolf/base32crockford",
   "version": "1.0.0",
-  "description": "Base32Crockford",
+  "description": "Crockford's Base32",
   "type": "module",
   "main": "./lib/index.cjs",
   "exports": {
